@@ -1,0 +1,32 @@
+
+.red {
+    color: red;
+}
+.xxsmall {
+    font-size: 0.6em;
+}
+
+.xsmall {
+    font-size: 0.8em;
+}
+
+.medium {
+    font-size: 1em;
+}
+
+.large {
+    font-size: 1.2em;
+}
+
+.xlarge {
+    font-size: 1.4em;
+}
+
+.xxlarge {
+    font-size: 1.6em;
+}
+
+/* Размер для класса size-small */
+.size-small {
+    font-size: 0.75em;
+}
